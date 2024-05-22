@@ -5,6 +5,10 @@ body {
   color: #282828;
 }
 
+.mainP {
+  text-align: center;
+}
+
 .button {
   margin: 30px;
   background-color: #39495c;
